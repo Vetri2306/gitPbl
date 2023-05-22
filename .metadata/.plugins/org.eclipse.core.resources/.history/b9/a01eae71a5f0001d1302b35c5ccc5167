@@ -1,0 +1,13 @@
+package Bindings;
+
+public class Hooks {
+	public static webDriver driver;
+	public static String URL ="https://www.nykaa.com/";
+	
+	@Before
+	public void Start() {
+		System.setProperty("/Users/VE20463903/Downloads/chromedriver_mac_arm64/chromedriver)
+	}
+	
+
+}

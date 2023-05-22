@@ -1,0 +1,10 @@
+package collectionofrequest;
+
+public class Get {
+
+	public void TC1(){
+		 
+		
+	RestAs = "";
+
+}

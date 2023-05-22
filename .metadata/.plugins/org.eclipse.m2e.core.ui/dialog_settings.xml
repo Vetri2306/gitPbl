@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="/Users/VE20463903/Desktop/eclipse-workspace/Victory"/>
+			<item value="/Users/VE20463903/Desktop/eclipse-workspace/Nil"/>
+			<item value="/Users/VE20463903/Desktop/eclipse-workspace/Petpbl/src/main/java/Feature/pet.feature"/>
+			<item value="/Users/VE20463903/Desktop/eclipse-workspace/Nykaa/src/test/java/Feature/Linkedin.feature"/>
+			<item value="/Users/VE20463903/Desktop/eclipse-workspace/Victory/pom.xml"/>
+			<item value="/Users/VE20463903/Desktop/eclipse-workspace/Victory/src/main/java/Intorduction_to_selenium_webdriver/Assignment3.java"/>
+			<item value="/Users/VE20463903/Desktop/eclipse-workspace/Automationv"/>
+			<item value="/Users/VE20463903/Desktop/eclipse-workspace/Vel"/>
+			<item value="/Users/VE20463903/Desktop/eclipse-workspace/Vel/src/Basicinst/Base.java"/>
+			<item value="/Users/VE20463903/Desktop/eclipse-workspace/Pblcodes"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="APItests"/>
+			<item value="Hybrid"/>
+			<item value="Nil"/>
+		</list>
+		<list key="name">
+			<item value="APItests"/>
+			<item value="Hybrid"/>
+			<item value="Nil"/>
+		</list>
+		<list key="artifactId">
+			<item value="APItests"/>
+			<item value="Hybrid"/>
+			<item value="Nil"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="wizardPage">
+		<list key="groupId">
+			<item value="ta"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="ta"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>

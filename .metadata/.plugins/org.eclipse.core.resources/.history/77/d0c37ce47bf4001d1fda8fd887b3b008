@@ -1,0 +1,12 @@
+package practisejava01;
+
+public class Sb {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+StringBuilder sb = new StringBuilder("java");
+sb.insert(2,"vetri");
+System.out.println(sb);
+	}
+
+}

@@ -1,0 +1,23 @@
+package practisejava01;
+
+public class Practiprimenum2 {
+	
+	public static void main(String args[]) {
+
+	int n=2;
+	boolean prime = false;
+	
+	for(int i=2;i<n;i++) {
+		
+		if(n%i==0) {
+		
+		prime = true;
+		
+		}
+		System.out.println(prime);
+	}
+	
+	
+	
+}
+}

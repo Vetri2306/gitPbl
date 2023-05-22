@@ -1,0 +1,7 @@
+Feature:LinkedInaccount
+
+Scenario: I want to search a HR account in a LinkedIn account
+Given Iam a user who launched a LinkedIn account to search a account
+When I am a searching into the search bar by HR
+And Hit enter key to search
+Then I must be able to see that account in my  page

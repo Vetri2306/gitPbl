@@ -1,0 +1,20 @@
+Feature:Jpetstore
+@valid_Data
+
+Scenario: login with claid credentials
+Given Iam a user who launched a jpetsore to sign up a account
+When Type a user name and password
+And Hit enter key to sign up
+Then I must be able to see that account in my page
+
+Feature:
+@Invalid_Data
+
+Scenario: submit the following order
+Given Iam a user who launched a jpetstore to sign up a account
+When click the fish word
+And add to cart
+Then proceed to checkout
+And continue with the checkout
+Then confirm the order
+

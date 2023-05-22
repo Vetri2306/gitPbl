@@ -1,0 +1,13 @@
+package pages;
+
+public class jpethomepage extends Hooks {
+
+	
+	public  static void home() {
+		
+driver.find
+		
+		
+		
+	}
+}

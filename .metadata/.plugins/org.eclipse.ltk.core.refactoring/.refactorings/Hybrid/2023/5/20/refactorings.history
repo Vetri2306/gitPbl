@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;excelpac&apos; to &apos;exceldata&apos;&#x0A;- Original project: &apos;Hybrid&apos;&#x0A;- Original element: &apos;Hybrid/src/main/java/excelpac&apos;&#x0A;- Renamed element: &apos;Hybrid/src/main/java/exceldata&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;excelpac&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;excelpac" name="exceldata" qualified="false" references="true" stamp="1684230141584" textual="false" version="1.0"/>
+</session>

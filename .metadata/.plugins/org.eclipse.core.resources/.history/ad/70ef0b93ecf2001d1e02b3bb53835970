@@ -1,0 +1,14 @@
+Feature: Jpetstore
+
+
+Scenario: login with claid credentials
+Given Iam a user who launched a jpetsore to sign up a account
+When Type a user name and password
+And Hit enter key to sign up
+Then I must be able to see that account in my page
+
+Scenario: submit the following order
+Given Iam a user who launched a jpetsore to sign up a account
+When Type a user name and password
+And Hit enter key to sign up
+Then I must be able to see that account in my page

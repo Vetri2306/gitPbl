@@ -1,0 +1,12 @@
+package collectionofrequest;
+
+import io.restassured.RestAssured;
+
+public class Get {
+
+	public void TC1(){
+		 
+		
+	RestAssured.baseURI="http://localhost:3000/";
+
+}

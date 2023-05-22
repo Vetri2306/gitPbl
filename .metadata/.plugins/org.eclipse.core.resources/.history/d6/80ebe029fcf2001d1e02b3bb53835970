@@ -1,0 +1,31 @@
+package pages;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebElement;
+
+import Bindingspet.Hooks;
+
+public class jpethomepage extends Hooks{
+
+	
+	public  static void home() {
+		WebElement signin=driver.findElement(By.xpath("//*[@id=\"MenuContent\"]/a[2]"));
+		signin.click();
+	}	
+	public static void user() {	
+		WebElement username=driver.findElement(By.xpath("//*[@id=\"stripes--1767680986\"]"));
+		username.sendKeys("j2ee");
+	}
+	public static void pass() {
+
+		WebElement password=driver.findElement(By.xpath("//*[@id=\"Catalog\"]/form/p[2]/input[2]"));
+		password.sendKeys("j2ee");
+		
+	}
+	public static void login() {
+		WebElement login=driver.findElement(By.xpath("//*[@id=\"Catalog\"]/form/input"));
+		login.click();
+	
+	}
+	}
+

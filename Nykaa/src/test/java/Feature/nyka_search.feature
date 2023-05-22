@@ -1,0 +1,21 @@
+
+Feature: Nyka search
+
+Scenario: I want to search for tshirt on nyka search bar 
+Given Iam a customer who lauched the website to buy a tshirt
+When I am a searching into the search bar by typing tshirt
+And Hit enter key to search
+Then I must be able to see tshirt in my product page
+
+Scenario: I want to search for tshirt on nyka search bar 
+Given Iam a customer who lauched the website to buy a tshirt
+When I am a searching into the search bar by typing tshirt
+And Hit enter key to search
+Then I must be able to see tshirt in my product page
+
+
+Scenario: I want to search for tshirt on nyka search bar 
+Given Iam a customer who lauched the website to buy a tshirt
+When I am a searching into the search bar by typing tshirt
+And Hit enter key to search
+Then I must be able to see tshirt in my product page

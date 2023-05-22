@@ -1,0 +1,21 @@
+package Base;
+
+import org.openqa.selenium.WebDriver;
+import org.testng.annotations.AfterTest;
+import org.testng.annotations.BeforeTest;
+
+public class Baseclass {
+	public static WebDriver driver;
+	public static String URL = "";
+	
+	@BeforeTest
+	public void Start() {
+		
+	}
+	
+	@AfterTest
+	public void End() {
+		
+	}
+	
+}

@@ -1,0 +1,15 @@
+package Pages;
+
+import org.openqa.selenium.WebElement;
+
+public class Nyka_homepage extends {
+
+//	Locators
+	public static WebElement searchBar = driver.findE
+	
+//	Mthods
+	public static void ClickAndSearchOnSearchBar(String textToSearch) {
+		
+	}
+	
+}

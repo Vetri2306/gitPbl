@@ -1,0 +1,17 @@
+Feature: Jpetstore
+
+
+Scenario: login with claid credentials
+Given Iam a user who launched a jpetsore to sign up a account
+When I click on the Sign Inlink
+Then Hit enter key to sign up
+When I enter the username " <username>"
+And I enter the password
+And I click on the login button
+Then I should be logged in with my account
+
+Scenario: submit the following order
+Given Iam a user who launched a jpetsore to sign up a account
+When Type a user name and password
+And Hit enter key to sign up
+Then I must be able to see that account in my page

@@ -1,0 +1,19 @@
+package Runner;
+
+import org.junit.runner.RunWith;
+
+import io.cucumber.junit.Cucumber;
+import io.cucumber.junit.CucumberOptions;
+@RunWith(Cucumber.class)
+@CucumberOptions(
+		//path of feature file
+		features = "Users/VE20463903/Desktop/eclipse-workspace/Irctc/src/test/java/Feature/nyka_search.feature",
+		 
+		glue = {"Bindings"}
+		
+		
+		)
+
+public class nyka_search_runnerFile {
+
+}

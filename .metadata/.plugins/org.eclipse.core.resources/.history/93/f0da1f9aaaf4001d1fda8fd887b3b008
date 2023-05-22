@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="Com_Tests.selenium_webcontrols.Exception_Handling_JS"/>
+      <class name="Com_Tests.RightClick"/>
+      <class name="Com_Tests.toolTip"/>
+      <class name="Com_Tests.selenium_webcontrols.testng_Demo"/>
+      <class name="Com_Tests.Exception_Handling_JS"/>
+      <class name="Com_Tests.google"/>
+      <class name="Com_Tests.selenium_webcontrols.RightClick"/>
+      <class name="Com_Tests.practiseform"/>
+      <class name="Com_Tests.testng_Demo"/>
+      <class name="Com_Tests.selenium_webcontrols.toolTip"/>
+      <class name="Com_Tests.KeyboardMouse"/>
+      <class name="Com_Tests.dropDown"/>
+      <class name="Com_Tests.HandleWindow"/>
+      <class name="Com_Tests.selenium_webcontrols.dropDown"/>
+      <class name="Com_Tests.selenium_webcontrols.google"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

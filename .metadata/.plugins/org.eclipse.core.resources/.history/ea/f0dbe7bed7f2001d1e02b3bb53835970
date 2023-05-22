@@ -1,0 +1,7 @@
+Feature:LinkedInaccount
+
+Scenario: I want to search a one account in a LinkedIn account
+Given Iam a cusotmer who lauched the website to buy a tshirt
+When I am a searching into the seatch bar by typing tshirt
+And Hit enter key to search
+Then I must be able to see tshirt in my product page

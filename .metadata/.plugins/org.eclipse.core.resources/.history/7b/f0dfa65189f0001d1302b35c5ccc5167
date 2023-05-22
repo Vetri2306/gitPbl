@@ -1,0 +1,7 @@
+
+Feature: Nyka search
+Scenario: I want to search for tshirt on nyka seach bar 
+Given Iam a cusotmer who lauched the website to buy a tshirt
+When I am a searching into the seatch bar by typing tshirt
+And Hit enter key to search
+Then I must be able to see tshirt in my product page

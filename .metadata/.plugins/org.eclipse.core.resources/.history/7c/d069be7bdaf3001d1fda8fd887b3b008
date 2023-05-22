@@ -1,0 +1,14 @@
+package Datadrivenframework;
+
+import org.openqa.selenium.WebDriver;
+
+public class Datadrivenframework {
+
+	public static void main(String[] args) {
+		
+		Public static WebDriver driver;
+		// TODO Auto-generated method stub
+
+	}
+
+}

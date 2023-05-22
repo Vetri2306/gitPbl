@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="8.972" tests="1" skipped="0" failures="1" errors="0">
+<testcase classname="PetStore function" name="product search - Example #1.1" time="8.633">
+<failure type="java.lang.NullPointerException" message="Cannot invoke &quot;org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)&quot; because &quot;pack1.petstorelogin.driver&quot; is null">
+<![CDATA[java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "pack1.petstorelogin.driver" is null
+	at pack1.petstorelogin.signin(petstorelogin.java:14)
+	at pack1.petstorebinding.i_click_signin_to_launch_signin_page(petstorebinding.java:19)
+	at ✽.I click signin to launch signin page(file:///Users/TA20463982/Tamilworkspace/limat/src/main/java/pack1/petstore.feature:6)
+]]>
+</failure>
+<system-out><![CDATA[
+Given I launch the PetStore application.....................................passed
+When I click signin to launch signin page...................................failed
+When I enter the UserName j2ee..............................................skipped
+When I enter the password password..........................................skipped
+And I click the login button................................................skipped
+Then I see the PetStore HomePage............................................skipped
+]]></system-out>
+</testcase>
+</testsuite>

@@ -1,0 +1,34 @@
+package Bindingspet;
+
+import io.cucumber.java.en.Given;
+import io.cucumber.java.en.Then;
+import io.cucumber.java.en.When;
+
+public class Hooks {
+	@Given("Iam a user who launched a jpetsore to sign up a account")
+	public void iam_a_user_who_launched_a_jpetsore_to_sign_up_a_account() {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new io.cucumber.java.PendingException();
+	}
+
+	@When("Type a user name and password")
+	public void type_a_user_name_and_password() {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new io.cucumber.java.PendingException();
+	}
+
+	@When("Hit enter key to sign up")
+	public void hit_enter_key_to_sign_up() {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new io.cucumber.java.PendingException();
+	}
+
+	@Then("I must be able to see that account in my page")
+	public void i_must_be_able_to_see_that_account_in_my_page() {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new io.cucumber.java.PendingException();
+	}
+
+
+
+}
